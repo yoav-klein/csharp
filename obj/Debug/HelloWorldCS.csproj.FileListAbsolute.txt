@@ -1,6 +1,0 @@
-C:\Users\Yoav\source\repos\HelloWorldCS\HelloWorldCS\obj\Debug\HelloWorldCS.csprojAssemblyReference.cache
-C:\Users\Yoav\source\repos\HelloWorldCS\HelloWorldCS\bin\Debug\HelloWorldCS.exe.config
-C:\Users\Yoav\source\repos\HelloWorldCS\HelloWorldCS\bin\Debug\HelloWorldCS.exe
-C:\Users\Yoav\source\repos\HelloWorldCS\HelloWorldCS\bin\Debug\HelloWorldCS.pdb
-C:\Users\Yoav\source\repos\HelloWorldCS\HelloWorldCS\obj\Debug\HelloWorldCS.exe
-C:\Users\Yoav\source\repos\HelloWorldCS\HelloWorldCS\obj\Debug\HelloWorldCS.pdb
